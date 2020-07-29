@@ -9,12 +9,12 @@ An Interactive real-world earthquake &amp; airport data visualization using Java
 
 Capabilities includes:
 
-1.Keyboard shortcuts
+1. Keyboard shortcuts
 
-- Change map providers
+* Change map providers
 - Show only the recent earthquakes or show it all
 
-2.Mouse Hover
+2. Mouse Hover
 
 - Show a marker's detail drawn on top of other graphics
 - Dynamic latitude and longitude on the lower right side of the map
