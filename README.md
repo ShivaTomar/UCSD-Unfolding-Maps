@@ -5,7 +5,7 @@ An Interactive real-world earthquake &amp; airport data visualization using Java
 - Processing - https://processing.org
 
 
-## Module 6 contains the final output of the program.
+# Module 6 contains the final output of the program.
 
 Capabilities includes:
 
