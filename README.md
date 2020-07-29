@@ -22,8 +22,8 @@ Capabilities includes:
 3. Mouse Clicks
 
 - When clicking a city marker:
-    $Shows the airports within 50km
-    $Shows an earthquake if the city is affected by its threat circle
-    $Hides other city marker
-    $A popup menu appears on the left side of the map to show the count of nearby earthquakes, average magnitude, and the most recent earthquake occurred
+    + Shows the airports within 50km
+    + Shows an earthquake if the city is affected by its threat circle
+    + Hides other city marker
+    + A popup menu appears on the left side of the map to show the count of nearby earthquakes, average magnitude, and the most recent earthquake occurred
 
