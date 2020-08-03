@@ -70,6 +70,6 @@ public class CityMarker extends SimplePointMarker {
 	
 	public float getPopulation()
 	{
-		return Float.parseFloat(getStringProperty("population"));
+		return Float.parseFloat(getStringProperty("population"));;
 	}
 }
